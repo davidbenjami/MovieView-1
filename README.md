@@ -10,7 +10,9 @@ Our app basically is designed to have data persistence. The app will make API ca
 Features Used:
 
 Database- create instances and class to hold data, the main access point to the cached data; 
+
 Entity- specifies column and creates a template for each row in future database;
+
 DAO (data access objects)- take the fetched data and insert into a table to be displayed and clear out all older entries;
 Kotlin file- common data class language being used to create data class;
 Fragments- to look at a specific image of the website page and to navigate through the app; 
