@@ -25,5 +25,5 @@ SQLite- local database along with ‘Room Library’ to store and load cached da
 
 
 
-Who did what?
+Who did what? 
 We did research on the different features to implement and how to implement them will affect our app.
